@@ -46,6 +46,10 @@
     <Compile Include="AbserverPatternTest.fs" />
     <Compile Include="AdapterPatternTest.fs" />
     <Compile Include="DecoratorPatternTest.fs" />
+    <Compile Include="ProxyPatternTest.fs" />
+    <Compile Include="StrategyPatterTest.fs" />
+    <Compile Include="StatePatternTest.fs" />
+    <Compile Include="StatePatterTest2.fs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\..\Microsoft SDKs\F#\3.1\Framework\v4.0\Microsoft.FSharp.Targets" />
 </Project>

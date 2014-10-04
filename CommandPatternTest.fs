@@ -1,4 +1,4 @@
-﻿module DesignPatternTest
+﻿module CommandPatternTest
 
 open System
 

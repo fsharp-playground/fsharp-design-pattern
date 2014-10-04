@@ -1,4 +1,4 @@
-﻿namespace DesignPatternTest
+﻿module DesignPatternTest
 
 open System
 open NUnit.Framework
